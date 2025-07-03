@@ -56,7 +56,7 @@ namespace CppCLRWinFormsProject {
 			// button1
 			// 
 			this->button1->Location = System::Drawing::Point(132, 81);
-			this->button1->Name = L"2";
+			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(75, 23);
 			this->button1->TabIndex = 0;
 			this->button1->Text = L"button1";
